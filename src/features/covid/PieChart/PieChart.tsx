@@ -23,7 +23,7 @@ const PieChart: React.FC = () => {
               daily[daily.length - 1].Deaths,
             ],
             backgroundColor: [
-              'rbga(0, 0, 255, 0.5)',
+              'rgba(0, 0, 255, 0.5)',
               '#008080',
               'rgba(255, 0, 0, 0.5)',
             ],
